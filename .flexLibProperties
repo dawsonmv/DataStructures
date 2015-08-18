@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.data.nodes.LinkNode"/>
+    <classEntry path="com.data.nodes.DualNode"/>
+    <classEntry path="com.data.Stack"/>
+    <classEntry path="com.data.Queue"/>
+    <classEntry path="com.data.nodes.TreeNode"/>
+    <classEntry path="com.data.nodes.IndexNode"/>
+    <classEntry path="com.data.DynamicArray"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
