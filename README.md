@@ -1,2 +1,2 @@
-# AdvancedDataStructures
-Here are some Advanced Data Structures as alternatives to the standard flash library
+# DataStructures
+Here are some Data Structures as alternatives to the standard flash library
